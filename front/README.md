@@ -23,15 +23,15 @@ Launch Front-end:
 
 ## Ressources
 
-### Mockoon env 
+### Mockoon env
 
 ### Postman collection
 
 For Postman import the collection
 
-> ressources/postman/yoga.postman_collection.json 
+> ressources/postman/yoga.postman_collection.json
 
-by following the documentation: 
+by following the documentation:
 
 https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman
 
