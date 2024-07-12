@@ -75,6 +75,12 @@
             <version>1.5.1.Final</version>
             <scope>provided</scope>
         </dependency>
+
+      <dependency>
+        <groupId>com.wl4g</groupId>
+        <artifactId>infra-integration-eureka</artifactId>
+        <version>3.1.0</version>
+      </dependency>
     </dependencies>
 
     <build>
@@ -109,6 +115,12 @@
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.8.5</version>
+                <configuration>
+                  <excludes>
+                    <exclude>com/openclassrooms/starterjwt/mapper/*</exclude>
+                    <exclude>com/openclassrooms/starterjwt/dto/*</exclude>
+                  </excludes>
+                </configuration>
                 <executions>
                     <execution>
                         <goals>
