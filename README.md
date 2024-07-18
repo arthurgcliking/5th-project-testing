@@ -108,7 +108,3 @@
     Le rapport de couverture sera généré dans `back/target/site/jacoco/index.html`.
 
 **Note :** Avant de lancer les tests, assurez-vous d'exécuter le script de base de données dans `ressources/sql`.
-
-### Prérequis
-
-- Assurez-vous d'installer les versions nécessaires de Java, Node.js, Maven et Angular CLI (version 14.1.0) pour garantir la compatibilité avec le projet.
