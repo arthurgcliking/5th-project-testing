@@ -12,7 +12,7 @@
 2. Clonez ce dépôt sur votre machine locale.
 
     ```sh
-    git clone <URL_du_dépôt>
+    git clone https://github.com/arthurgcliking/5th-project-testing.git
     ```
 
 3. Dans le répertoire du projet back-end, exécutez la commande suivante pour télécharger les dépendances et compiler le projet :
