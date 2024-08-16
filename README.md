@@ -47,7 +47,7 @@
 
 ## Exécution des Tests
 
-### Tests Unitaires et d'Intégration Front-End (Jest)
+### Tests Unitaires et d'Intégration Front-End
 
 1. Accédez au répertoire du projet front-end :
 
@@ -69,7 +69,7 @@
 
     Le rapport se trouvera dans `front/coverage/jest/lcov-report/index.html`.
 
-### Tests End-to-End (Cypress)
+### Tests End-to-End
 
 1. Accédez au répertoire du projet front-end :
 
@@ -91,7 +91,7 @@
 
     Le rapport se trouvera dans `front/coverage/lcov-report/index.html`.
 
-### Tests Unitaires et d'Intégration Back-End (JUnit et Mockito)
+### Tests Unitaires et d'Intégration Back-End
 
 1. Accédez au répertoire du projet back-end :
 
